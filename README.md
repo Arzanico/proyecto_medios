@@ -1,8 +1,11 @@
 # proyecto_medios 
 
 Intervenimos en este proyecto:
+
 Mariano Vidal (https://www.linkedin.com/in/mariano-vidal-940b8528/)
+
 Pablo Bagedelli (https://www.linkedin.com/in/pablo-bagedelli-4782a6149/)
+
 Sebastian Nicolas Arzani Domenget(https://www.linkedin.com/in/sebastian-nicolas-arzani-domenget-37670592/)
 
 Analisis de comentarios de medios de comunicacion digitales. 
