@@ -1,3 +1,5 @@
+IMPORTANTE :: TODO EL PROYECTO SE DESARROLLO EN WINDOWS
+
 # proyecto_medios 
 
 Intervenimos en este proyecto:
