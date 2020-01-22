@@ -23,5 +23,5 @@ Los datos los conseguimos scrapeando los comentarios de diferentes secciones de 
 Para guardar los datos fuimos creando tablas por sección y por día utilizando Pandas.
 Para el analisis de texto aplicamos funciones de la librería NLTK y la Api de google Perspective con una versión beta en español.
 
-Todos los resultados de este trabajo fueron analizados y validados por el Licenciado Mariano Vidal y forman parte su tesis para la Maestría en Periodismo presentada bajo el nombre de "Bajar al barro: Estudio de los espacios de comentarios en los portales de noticias argentinos" en la Universidad de San Andrés.
+Todos los resultados de este trabajo fueron analizados y validados por el Licenciado Mariano Vidal y forman parte su tesis para la Maestría en Periodismo presentada bajo el nombre de "Bajar al barro: Estudio de los espacios de comentarios en los portales de noticias argentinos" en la Universidad de San Andrés, Buenos Aires, Argentina
 
