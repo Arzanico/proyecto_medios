@@ -10,6 +10,8 @@ Pablo Bagedelli (https://www.linkedin.com/in/pablo-bagedelli-4782a6149/)
 
 Sebastian Nicolás Arzani Domenget(https://www.linkedin.com/in/sebastian-nicolas-arzani-domenget-37670592/)
 
+Curador Marcelo Antonio Maquez (https://www.linkedin.com/in/mmaquez/)
+
 Analisis de comentarios de medios de comunicación digitales.
 
 Este trabajo se centro en el análisis de comentarios de los usuarios de algunos de los mayores sitios informativos digitales.
